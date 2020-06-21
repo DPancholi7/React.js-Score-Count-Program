@@ -1,8 +1,8 @@
-Author & Developer : Dhvani Pancholi
+Author & Developer : Dhvani Pancholi .
 Description : 
-Programming Langauges : Javascript , HTML & CSS
+Programming Langauges : Javascript , HTML & CSS.
 
-
+ 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
